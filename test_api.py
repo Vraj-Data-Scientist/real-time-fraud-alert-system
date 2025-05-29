@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 # API endpoint
-url = 'http://3.135.216.208:5000/predict'
+url = 'http://3.123.456.789:5000/predict'
 
 # Load dataset to extract realistic samples
 df = pd.read_csv('PS_20174392719_1491204439457_log.csv')
